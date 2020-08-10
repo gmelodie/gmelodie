@@ -5,9 +5,9 @@
 </p>
 
 <p align='center'>
-  <a href="https://dev.to/gmelodie"><img height="30" src="https://raw.githubusercontent.com/gmelodie/gmelodie/main/icons/dev.png"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/gmelodiecruz"><img height="30" src="https://github.com/gmeloide/gmelodie/main/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/gmelodie/gmelodie/blob/main/icons/linkedin.png?raw=true"></a>
+  <a href="https://dev.to/gmelodie"><img height="30" src="https://raw.githubusercontent.com/gmelodie/gmelodie/master/icons/dev.png"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/gmelodiecruz"><img height="30" src="https://raw.githubusercontent.com/gmelodie/gmelodie/master/icons/twitter.png"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://raw.githubusercontent.com/gmelodie/gmelodie/master/icons/linkedin.png"></a>
 </p>
 
 <h3>Things I code with</h3>
