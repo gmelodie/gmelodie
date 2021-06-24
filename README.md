@@ -1,7 +1,7 @@
 <h1 align='center'> :wave: Hi there! I'm <a href="https://gmcruz.me"> Gabe</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
 
 <p align='center'>
-  Software Engineer from 🇧🇷 <b>São Carlos, Brazil</b> to 🇫🇷 <b>Brest, France</b>, and back to 🇧🇷 <b>Londrina, Brazil</b>
+  Software Engineer from 🇧🇷 <b>Londrina, Brazil</b> to 🇫🇷 <b>Brest, France</b>, and back to 🇧🇷 <b>São Carlos, Brazil</b>
 </p>
 
 <p align='center'>
