@@ -4,12 +4,6 @@
   Software Engineer from 🇧🇷 <b>São Carlos, Brazil</b>
 </p>
 
-<p align='center'>
-  <a href="https://dev.to/gmelodie"><img height="30" src="https://raw.githubusercontent.com/gmelodie/gmelodie/master/icons/dev.png"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/gmelodiecruz"><img height="30" src="https://raw.githubusercontent.com/gmelodie/gmelodie/master/icons/twitter.png"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gabriel-de-melo-cruz/"><img height="30" src="https://raw.githubusercontent.com/gmelodie/gmelodie/master/icons/linkedin.png"></a>
-</p>
-
 <h3 align='center'>Things I code with</h3>
 <p align='center'>
   <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" />
